@@ -1,0 +1,11 @@
+In react, we have several hooks. Yet I only know useState and useEffect.
+
+Hooks helps us, developers to create some logics and work on our components more easily.
+
+useState
+
+useState hook is used to manage state. In state I mean e.g variablelike thing value. So how your website looks in a moment is depended on useState hook and that one moment itself is called state.
+
+useEffect
+
+useEffect hook is used to handle side effects. It can be used in fetching data from API, setting timers or intervals and things like that.
